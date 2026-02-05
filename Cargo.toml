@@ -1,0 +1,15 @@
+[package]
+name = "peacemachine"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+path = "src/lib.rs"
+
+[[bin]]
+name = "peacemachine"
+path = "src/bin/peacemachine.rs"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+byteorder = "1.4"
