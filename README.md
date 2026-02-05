@@ -1,5 +1,9 @@
 # PeaceMachine
 
+<p align="center">
+  <img src="./PeaceMachineLogo.png" alt="PeaceMachine logo" width="720">
+</p>
+
 PeaceMachine is the execution engine for the Mac Lane environment. It executes certified programs written in Transgender Language / Transgender Bytecode (TL/TBC) by substitution + reduction.
 
 ## Design Goals
